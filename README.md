@@ -1,4 +1,4 @@
-# Projeto Raspberry Pi Pico: Monitoramento de Temperatura, Umidade e Ruído
+# Projeto Raspberry Pi Pico: Sistema Embarcado para Monitoramento de Temperatura, Umidade e Ruído
 
 Este projeto foi desenvolvido utilizando o **Raspberry Pi Pico** e tem como objetivo monitorar **temperatura**, **umidade** e **nível de ruído** em tempo real. O sistema utiliza um joystick para simular a leitura de temperatura e umidade, um módulo MIC para capturar o nível de ruído, e um display OLED SSD1306 para exibir os dados. Além disso, o sistema emite alertas visuais e sonoros quando os valores ultrapassam limites críticos configuráveis.
 
@@ -60,7 +60,7 @@ Este projeto foi desenvolvido utilizando o **Raspberry Pi Pico** e tem como obje
 
 ## Vídeo Demonstrativo
 
-[Link para o vídeo de demonstração](#) *(insira o link do vídeo aqui)*
+https://youtu.be/H3M8OSEebTQ
 
 
 
